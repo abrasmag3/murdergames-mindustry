@@ -1,8 +1,8 @@
 # Mindustry in Murder Games
 Murder Games is an automatic Hunger Games Simulator (https://orteil.dashnet.org/murdergames/). This project aims to put all aspects of Mindustry into Murdergames.
 
-## Customizing Characters
-Feel free to pull request any changes to random characters. Random characters are characters that have not been customized to match their purpose. I cannot cater to every single one, so I request that if you have an idea, submit it following this format:
+## Adding/Changing Characters
+Feel free to pull request any changes to "random" characters. Random characters are characters that have not been accurately changed (e.g thorium reator is suicidal). I cannot cater to every single one, so if you have an idea, please submit a pull request with the description following this format:
 
 Character name
 Pronouns | Perks | Item
