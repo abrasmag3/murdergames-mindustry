@@ -7,4 +7,4 @@ Feel free to pull request any changes to random characters. Random characters ar
 Character name
 Pronouns | Perks | Item
 
-If you want to add whole new categories such as Status Effects, you may do so, but most likely I am already working on them...
+If you want to update whole categories, you may do so, as long as you update no more than one team each time. If you want to add new categories, ask me first to make sure I am not already doing so
